@@ -1,0 +1,16 @@
+Source: hybris-mobian-apt-config
+Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.5.0.3
+Vcs-Browser: https://github.com/hybris-mobian/hybris-mobian-archive-keyring
+Vcs-Git: https://github.com/hybris-mobian-releng/hybris-mobian-archive-keyring.git
+
+Package: hybris-mobian-apt-config
+Architecture: all
+Pre-Depends: apt
+Depends: ${misc:Depends}
+Description: APT configurations for hybris-mobian
+ This package contains various APT configurations and Pins
+ for hybris-mobian.
