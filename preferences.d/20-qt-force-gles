@@ -1,0 +1,5 @@
+# Disallow installation of libqt5gui5, so that APT will fallback
+# to libqt5gui5-gles instead.
+Package: libqt5gui5
+Pin: version *
+Pin-Priority: -1
