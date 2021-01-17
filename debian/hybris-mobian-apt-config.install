@@ -1,2 +1,3 @@
 apt.conf.d/* /etc/apt/apt.conf.d/
 preferences.d/* /etc/apt/preferences.d/
+sources.list.d/* /usr/share/hybris-mobian-apt-config/sources.list.d/
