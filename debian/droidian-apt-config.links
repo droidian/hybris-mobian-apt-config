@@ -1,0 +1,2 @@
+/usr/share/droidian-apt-config/sources.list.d/phone.list /etc/apt/sources.list.d/phone.list
+/usr/share/droidian-apt-config/sources.list.d/gnome-clocks.list /etc/apt/sources.list.d/gnome-clocks.list

@@ -1,2 +1,2 @@
 # A phone-focused fork of gnome-clocks, to be used until GNOME Clocks gets a proper adaptive redesign.
-deb http://hybris-mobian-gnome-clocks.repo.hybris-mobian.org/bullseye-pureosfork/ bullseye main
+deb http://droidian-gnome-clocks.repo.droidian.org/bullseye-pureosfork/ bullseye main

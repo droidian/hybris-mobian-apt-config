@@ -1,16 +1,25 @@
-Source: hybris-mobian-apt-config
+Source: droidian-apt-config
 Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
 Section: misc
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.0.3
-Vcs-Browser: https://github.com/hybris-mobian/hybris-mobian-archive-keyring
-Vcs-Git: https://github.com/hybris-mobian-releng/hybris-mobian-archive-keyring.git
+Vcs-Browser: https://github.com/droidian/droidian-apt-config
+Vcs-Git: https://github.com/droidian/droidian-apt-config.git
 
-Package: hybris-mobian-apt-config
+Package: droidian-apt-config
 Architecture: all
 Pre-Depends: apt
 Depends: ${misc:Depends}
-Description: APT configurations for hybris-mobian
+Breaks: hybris-mobian-apt-config (<< 10+git20210324000000)
+Replaces: hybris-mobian-apt-config (<< 10+git20210324000000)
+Description: APT configurations for Droidian
  This package contains various APT configurations and Pins
- for hybris-mobian.
+ for Droidian.
+
+Package: hybris-mobian-apt-config
+Architecture: all
+Depends: droidian-apt-config
+Description: APT configurations for Droidian -- transitional package
+ This package is a transitional package. Feel free to
+ remove it.

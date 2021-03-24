@@ -1,0 +1,11 @@
+# Prefer Droidian's packages over mobian's and debian's,
+# even if they're older.
+Package: *
+Pin: release o=Droidian
+Pin-Priority: 1002
+
+
+# TODO: Remove when its' time
+Package: *
+Pin: release o=hybris-mobian
+Pin-Priority: 1002

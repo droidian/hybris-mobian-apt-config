@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: hybris-mobian-apt-config
-Source: https://github.com/hybris-mobian/hybris-mobian-apt-config
+Upstream-Name: droidian-apt-config
+Source: https://github.com/droidian/droidian-apt-config
 
 Files: *
 Copyright: 2020 Eugenio "g7" Paolantonio <me@medesimo.eu>
