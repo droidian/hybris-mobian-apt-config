@@ -1,3 +1,6 @@
 # Droidian: use a version of gst-plugins-bad1.0 without the
 # uvch264 module built-in
 deb http://droidian-gst-plugins-bad1.0.repo.droidian.org/bullseye-workaround-disable-uvch264/ bullseye main
+
+# libaperture-0 with droidcamsrc support (development branch)
+deb http://droidian-libaperture-0.repo.droidian.org/bullseye-droidcamsrc-devel/ bullseye main
