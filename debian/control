@@ -17,6 +17,14 @@ Description: APT configurations for Droidian
  This package contains various APT configurations and Pins
  for Droidian.
 
+Package: droidian-apt-config-plasma
+Architecture: all
+Pre-Depends: apt
+Depends: ${misc:Depends}
+Description: APT configurations for Droidian with KDE Plasma Mobile
+ This package contains various APT configurations and Pins
+ for Droidian with KDE Plasma Mobile.
+
 Package: hybris-mobian-apt-config
 Architecture: all
 Depends: droidian-apt-config
