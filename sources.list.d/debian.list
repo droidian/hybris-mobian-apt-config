@@ -1,0 +1,2 @@
+# Debian security
+deb http://deb.debian.org/debian/ bullseye-security main contrib non-free
