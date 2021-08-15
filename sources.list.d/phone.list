@@ -3,11 +3,11 @@
 # It gets installed by the droidian-apt-config package and will be removed
 # once the updated packages are upstream.
 
-# gnome-calls: tied to our patched callaudiod
-deb http://droidian-gnome-calls.repo.droidian.org/bullseye-ofono-call-signals/ bullseye main 
+# gnome-calls: 0.3.4 with cherry-picks to work with newer phoshes
+deb http://droidian-gnome-calls.repo.droidian.org/bullseye-0-3-4-picks/ bullseye main
 
 # callaudiod: still WIP
-deb http://droidian-callaudiod.repo.droidian.org/bullseye-droid/ bullseye main 
+deb http://droidian-callaudiod.repo.droidian.org/bullseye-droid-0-1-0+git20210408/ bullseye main
 
 # oFono2MM: A simple Python script implementing ModemManager D-Bus API and using oFono to manage the modems
 deb http://droidian-ofono2mm.repo.droidian.org/bullseye-initial-implementation/ bullseye main
