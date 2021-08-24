@@ -3,9 +3,6 @@
 # It gets installed by the droidian-apt-config package and will be removed
 # once the updated packages are upstream.
 
-# gnome-calls: 0.3.4 with cherry-picks to work with newer phoshes
-deb http://droidian-gnome-calls.repo.droidian.org/bullseye-0-3-4-picks/ bullseye main
-
 # callaudiod: still WIP
 deb http://droidian-callaudiod.repo.droidian.org/bullseye-droid-0-1-0+git20210408/ bullseye main
 
