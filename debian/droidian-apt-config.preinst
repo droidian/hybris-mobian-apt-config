@@ -1,0 +1,16 @@
+#!/bin/sh
+set -e
+
+upgrade() {
+	# Remove "extrepo" repositories and keys
+	rm -f /var/lib/extrepo/keys/hybris-mobian.asc
+	rm -f /var/lib/extrepo/keys/mobian.asc
+	rm -f /etc/apt/sources.list.d/extrepo_droidian.sources
+	rm -f /etc/apt/sources.list.d/extrepo_mobian.sources
+}
+
+case "$1" in
+	"upgrade")
+		upgrade
+		;;
+esac

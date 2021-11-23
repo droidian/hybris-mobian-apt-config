@@ -1,0 +1,14 @@
+Components: main contrib non-free
+Suites: bullseye
+Uris: https://deb.debian.org/debian/
+Types: deb
+
+Components: main contrib non-free
+Suites: bullseye-updates
+Uris: https://deb.debian.org/debian/
+Types: deb
+
+Components: main contrib non-free
+Suites: bullseye-security
+Uris: http://security.debian.org/debian-security/
+Types: deb
