@@ -34,10 +34,3 @@ Depends: ${misc:Depends}
 Description: APT configurations for Droidian with KDE Plasma Mobile
  This package contains various APT configurations and Pins
  for Droidian with KDE Plasma Mobile.
-
-Package: hybris-mobian-apt-config
-Architecture: all
-Depends: droidian-apt-config
-Description: APT configurations for Droidian -- transitional package
- This package is a transitional package. Feel free to
- remove it.
