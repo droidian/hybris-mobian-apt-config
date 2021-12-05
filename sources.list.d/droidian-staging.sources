@@ -1,5 +1,5 @@
 Architectures: amd64 arm64 armhf
 Components: main
-Suites: bullseye
+Suites: bookworm
 Uris: https://staging.repo.droidian.org/
 Types: deb

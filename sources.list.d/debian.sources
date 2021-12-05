@@ -1,14 +1,14 @@
 Components: main contrib non-free
-Suites: bullseye
+Suites: bookworm
 Uris: https://deb.debian.org/debian/
 Types: deb
 
 Components: main contrib non-free
-Suites: bullseye-updates
+Suites: bookworm-updates
 Uris: https://deb.debian.org/debian/
 Types: deb
 
 Components: main contrib non-free
-Suites: bullseye-security
+Suites: bookworm-security
 Uris: http://security.debian.org/debian-security/
 Types: deb
