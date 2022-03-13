@@ -5,3 +5,10 @@ Pin: release o=Mobian
 Pin-Priority: 1001
 
 
+# 2022-03-13: Blacklist gnome-initial-setup 41.2-2mobian1,
+# that fails to install due to the removal of libhandy-0
+# in testing.
+Package: gnome-initial-setup
+Pin: version 41.2-2mobian1
+Pin-Priority: -1
+
