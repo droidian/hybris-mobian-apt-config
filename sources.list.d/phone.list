@@ -8,3 +8,6 @@ deb http://droidian-callaudiod.repo.droidian.org/bookworm-droid-0-1-0+git2021040
 
 # oFono2MM: A simple Python script implementing ModemManager D-Bus API and using oFono to manage the modems
 deb http://droidian-ofono2mm.repo.droidian.org/bookworm-initial-implementation/ bookworm main
+
+# 2022-04-08: gnome-calls hotfix
+deb http://droidian-gnome-calls.repo.droidian.org/bookworm-42-0-hotfix/ bookworm main
