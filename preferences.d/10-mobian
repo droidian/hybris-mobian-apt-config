@@ -4,3 +4,7 @@ Package: *
 Pin: release o=Mobian
 Pin-Priority: 1001
 
+# Prefer mobian-archive-keyring from Mobian themselves
+Package: mobian-archive-keyring
+Pin: release o=Mobian
+Pin-Priority: 1003
