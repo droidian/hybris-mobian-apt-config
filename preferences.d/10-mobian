@@ -14,3 +14,7 @@ Pin-Priority: 1003
 Package: gnome-calendar
 Pin: version 41.2-3mobian3
 Pin-Priority: -1
+
+Package: gnome-contacts
+Pin: version 42.0-2mobian1
+Pin-Priority: -1
