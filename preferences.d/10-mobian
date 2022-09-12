@@ -8,3 +8,9 @@ Pin-Priority: 1001
 Package: mobian-archive-keyring
 Pin: release o=Mobian
 Pin-Priority: 1003
+
+# 2022-09-12: blacklist packages that are interested by the libsoup3
+# migration
+Package: gnome-calendar
+Pin: version 41.2-3mobian3
+Pin-Priority: -1

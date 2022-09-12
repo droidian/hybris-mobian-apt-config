@@ -1,0 +1,2 @@
+# chatty with libsoup3 patches
+deb http://droidian-chatty.repo.droidian.org/bookworm-chatty-0-6-7-soup3/ bookworm main
