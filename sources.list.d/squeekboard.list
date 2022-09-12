@@ -1,2 +1,0 @@
-# Do not use downstream squeekboard for now as it's broken
-deb http://droidian-squeekboard.repo.droidian.org/bookworm-squeekboard-1-16-0/ bookworm main

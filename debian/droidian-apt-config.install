@@ -7,5 +7,4 @@ sources.list.d/gnome-clocks.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/gst.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/phone.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/gtk4.list /usr/share/droidian-apt-config/sources.list.d/
-sources.list.d/squeekboard.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/chatty.list /usr/share/droidian-apt-config/sources.list.d/
