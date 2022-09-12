@@ -8,17 +8,3 @@ Pin-Priority: 1001
 Package: mobian-archive-keyring
 Pin: release o=Mobian
 Pin-Priority: 1003
-
-# 2022-08-23: blacklist packages that depend on an older
-# version of libgnome-desktop
-Package: gnome-control-center*
-Pin: version 1:42.3-2mobian1
-Pin-Priority: -1
-
-Package: gnome-initial-setup
-Pin: version 42.2-1mobian1
-Pin-Priority: -1
-
-Package: evince evince-common gir1.2-evince-3.0 libevdocument* libevince-dev libevview*
-Pin: version 42.3-2mobian1
-Pin-Priority: -1
