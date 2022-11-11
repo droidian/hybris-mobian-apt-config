@@ -13,6 +13,11 @@ Package: libc-bin libc-dev-bin libc6 locales libc6-dev
 Pin: version 2.35-*
 Pin-Priority: 1006
 
+# Pin libsystemd0 to avoid APT weirdness
+Package: libsystemd0
+Pin: version 252-2
+Pin-Priority: 1006
+
 # TODO: Remove when its' time
 Package: *
 Pin: release o=hybris-mobian
