@@ -5,4 +5,3 @@
 /usr/share/droidian-apt-config/sources.list.d/gst.list /etc/apt/sources.list.d/gst.list
 /usr/share/droidian-apt-config/sources.list.d/phone.list /etc/apt/sources.list.d/phone.list
 /usr/share/droidian-apt-config/sources.list.d/gtk4.list /etc/apt/sources.list.d/gtk4.list
-/usr/share/droidian-apt-config/sources.list.d/chatty.list /etc/apt/sources.list.d/chatty.list
