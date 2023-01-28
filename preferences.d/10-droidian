@@ -17,3 +17,8 @@ Pin-Priority: 1006
 Package: *
 Pin: release o=hybris-mobian
 Pin-Priority: 1001
+
+# 2023-01-28: libtiff migration in testing breaks Mobian's evince
+Package: evince evince-common libevdocument3-4 libevview3-3
+Pin: version 43.1-2mobian1
+Pin-Priority: -1
