@@ -1,4 +1,0 @@
-# This file is used to pick-up packages
-# related to KDE Plasma Mobile.
-
-deb https://repo.kaidan.im/debpm/ testing main
