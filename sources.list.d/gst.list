@@ -1,6 +1,6 @@
 # Droidian: use a version of gst-plugins-bad1.0 without the
 # uvch264 module built-in
-deb http://droidian-gst-plugins-bad1.0.repo.droidian.org/bookworm-workaround-disable-uvch264/ bookworm main
+deb http://droidian-gst-plugins-bad1.0.repo.droidian.org/trixie-workaround-disable-uvch264/ trixie main
 
 # libaperture-0 with droidcamsrc support (development branch)
-deb http://droidian-libaperture-0.repo.droidian.org/bookworm-droidcamsrc-devel/ bookworm main
+deb http://droidian-libaperture-0.repo.droidian.org/trixie-droidcamsrc-devel/ trixie main
