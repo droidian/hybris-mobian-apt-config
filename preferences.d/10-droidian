@@ -10,5 +10,5 @@ Pin-Priority: 1002
 # it won't trigger libhybris removal should glibc
 # be updated in debian before we're ready
 Package: libc-bin libc-dev-bin libc6 locales libc6-dev
-Pin: version 2.36-*
+Pin: version 2.37-*
 Pin-Priority: 1006
