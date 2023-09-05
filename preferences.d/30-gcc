@@ -1,0 +1,12 @@
+# newer version of gcc crashes and is not yet stable
+Package: gnome-control-center
+Pin: version 1:43.6-2droidian9+git20230903220706.4d9736c.trixie.production
+Pin-Priority: 1003
+
+Package: gnome-control-center-data
+Pin: version 1:43.6-2droidian9+git20230903220706.4d9736c.trixie.production
+Pin-Priority: 1003
+
+Package: droidian-phosh-default-settings
+Pin: version 6+git20230815003047.25e8c61.trixie.production
+Pin-Priority: 1003
