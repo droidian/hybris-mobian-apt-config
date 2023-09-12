@@ -4,5 +4,6 @@ sources.list.d/droidian.sources /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/debian.sources /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/mobian.sources /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/gnome-clocks.list /usr/share/droidian-apt-config/sources.list.d/
+sources.list.d/gnome-session.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/gst.list /usr/share/droidian-apt-config/sources.list.d/
 sources.list.d/phone.list /usr/share/droidian-apt-config/sources.list.d/
