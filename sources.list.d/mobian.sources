@@ -3,3 +3,4 @@ Components: main non-free-firmware
 Suites: trixie
 Uris: http://repo.mobian-project.org/
 Types: deb deb-src
+Signed-By: /etc/apt/trusted.gpg.d/mobian.gpg

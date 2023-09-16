@@ -3,3 +3,4 @@ Components: main
 Suites: trixie
 Uris: https://staging.repo.droidian.org/
 Types: deb
+Signed-By: /etc/apt/trusted.gpg.d/droidian.gpg
