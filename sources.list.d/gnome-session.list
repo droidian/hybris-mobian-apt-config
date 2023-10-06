@@ -1,3 +1,0 @@
-# A patched version of gnome-session that avoid a crash when setting inhibitor with 0 as flags.
-# This is required for some video players like Clapper and Celluloid.
-deb http://droidian-gnome-session.repo.droidian.org/trixie-inhibit-hotfix/ trixie main
