@@ -12,8 +12,3 @@ Pin-Priority: 1002
 Package: libc-bin libc-dev-bin libc6 locales libc6-dev
 Pin: version 2.37-*
 Pin-Priority: 1006
-
-# gtk 4.12.4 breaks glyphs on Droidian
-Package: gtk-4-examples gtk-4-tests libgtk-4-1 libgtk-4-1-udeb libgtk-4-bin libgtk-4-common libgtk-4-dev libgtk-4-doc libgtk-4-media-ffmpeg libgtk-4-media-gstreamer
-Pin: version 4.12.3+ds-*
-Pin-Priority: 1006
