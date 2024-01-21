@@ -1,0 +1,5 @@
+# Only install packages from unstable if there
+# aren't alternatives
+Package: *
+Pin: release n=sid
+Pin-Priority: 100
