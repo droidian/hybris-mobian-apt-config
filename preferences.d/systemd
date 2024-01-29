@@ -1,0 +1,107 @@
+Package: libsystemd0 libsystemd-shared libpam-systemd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-sysv
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-container
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-journal-remote
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-coredump
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-timesyncd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-tests
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libnss-myhostname
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libnss-mymachines
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libnss-resolve
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libnss-systemd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: udev
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libudev1
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libudev-dev
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: udev-udeb
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: libudev1-udeb
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-standalone-sysusers
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-standalone-tmpfiles
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-oomd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-userdbd
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-homed
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-boot
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-boot-efi
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-ukify
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-resolved
+Pin: version 255.3-1
+Pin-Priority: 1006
+
+Package: systemd-dev
+Pin: version 255.3-1
+Pin-Priority: 1006
