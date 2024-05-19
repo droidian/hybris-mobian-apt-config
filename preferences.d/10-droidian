@@ -3,12 +3,3 @@
 Package: *
 Pin: release o=Droidian
 Pin-Priority: 1002
-
-# glibc updates are always nasty since we need to update
-# it on the buildd as well (which is not an automatic
-# process). Pin the major version of glibc here so that
-# it won't trigger libhybris removal should glibc
-# be updated in debian before we're ready
-Package: libc-bin libc-dev-bin libc6 locales libc6-dev
-Pin: version 2.37-*
-Pin-Priority: 1006
