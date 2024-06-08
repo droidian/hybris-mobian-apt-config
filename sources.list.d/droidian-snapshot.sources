@@ -1,5 +1,5 @@
 Components: main
 Suites: rolling
-Uris: http://releases.droidian.org/snapshots/current
+Uris: droidian+http://releases.droidian.org/
 Types: deb
 Signed-By: /etc/apt/trusted.gpg.d/droidian.gpg

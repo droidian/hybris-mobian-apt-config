@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/droidian/droidian-apt-config.git
 Package: droidian-apt-config
 Architecture: all
 Pre-Depends: apt
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, apt-transport-droidian
 Breaks: hybris-mobian-apt-config (<< 10+git20210324000000)
 Replaces: hybris-mobian-apt-config (<< 10+git20210324000000)
 Description: APT configurations for Droidian
